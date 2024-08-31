@@ -1,6 +1,6 @@
 # Pal-ette
 
-
+https://blog.pal-ette.org
 
 ## Projects
 
