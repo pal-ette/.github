@@ -2,7 +2,7 @@
 
 https://blog.pal-ette.org
 
-## Projects
+## 프로젝트
 
 ### iNotePal ([Live](https://pal-ette.github.io/iNotePal) / [Source](https://github.com/pal-ette/iNotePal))
 
@@ -13,3 +13,8 @@ https://blog.pal-ette.org
 
 - 사진기반 반려동물 질병검사 애플리케이션
 - 기간: 2024/05/10 ~ 2024/06/11 ([버전](https://github.com/pal-ette/iPetPal/releases/tag/apk-1))
+
+### reflex-wordcloud ([PyPI](https://pypi.org/project/reflex-wordcloud/) / [Source](https://github.com/pal-ette/reflex-wordcloud))
+
+- Reflex Custom Component wrapping React wordcloud
+
